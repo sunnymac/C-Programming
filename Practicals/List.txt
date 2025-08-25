@@ -1,0 +1,57 @@
+Write a program to print your address. 
+Write a program to perform average of five variables. 
+Write a program to print area of circle, rectangle and square. 
+Write a program to convert years into minutes. 
+Write a program to perform all the arithmetic operations together in a single program. 
+Write a program to print a character entered by user. 
+Write a program to convert small letter case to upper letter case. 
+Write a program to swap the values of two variables using third variable 
+Write a program to swap the values of two variables without using third variable 
+Write a program to find maximum and minimum numbers from two numbers by using Conditional operator.
+Write a program to demonstrate bitwise operator. 
+Write a program to check whether the entered number is odd or even by using if else statement. 
+Write a program to check whether entered character is alphabet, digit or special symbol. 
+Write a program to find whether entered year is leap year or not. 
+Write a program to check how many days are there in entered month by using switch case. 
+Write a program to check whether entered character is vowel or consonant by using switch statement.
+Write a program to get maximum number among three. 
+Write a program to calculate grade of given marks. 
+Write a program to print first 10 integers by using go to statement. 
+Write a program to print addition of first n numbers by using go to statement. 
+Write a program to find reverse of given numbers. (Example 132-231) 
+Write a program to check whether entered number is Armstrong or not. 
+Write a program to check whether entered number is palindrome or not. 
+Write a program to print factorial of a given number. 
+Write a program to check whether entered number is prime or not. 
+Write a program to print Different pattern using For Loop. 
+Write a program to print 1 to 5 numbers using array. 
+Write a program to print 1 to 5 reverse numbers using array. 
+Write a program to find sum and average of five numbers. 
+Write a program to find maximum and minimum number from given array. 
+Write a program to find number of positive, negative and zero from given array. 
+Write a program to find number of odd and even from given array. 
+Write a program to sort given n number using array. 
+Write a program to read matrix, display original and transpose of matrix. 
+Write a program to copy one string to another string. 
+Write a program to concatenate two strings. 
+Write a program to find length of given string. 
+Write a program to find length of given string without using string function. 
+Write a program to copy one string to another string without using string function. 
+Write a program to compare two strings. 
+Write a program to reverse a given string. 
+Write a program to find given string is palindrome or not. 
+Write a program to convert a given string into upper case string. 
+Write a user defined function (UDF) to print whether entered number is odd or even. 
+Write a program to add first n numbers using user defined function (UDF). 
+Write a program to find out average of first n numbers using user defined function (UDF). 
+Write a program to declare structure student having member’s grade, name and roll number and access them in various ways.
+Write a program using structure to get name, roll number, and marks of a student’s of a class and find out who got highest marks. Use concept of structure within structure.
+Write a program to create an employee structure having member’s name, salary, Get data in employee structure through one function and display data using another function. Use concept of struct and function.
+Write a program to declare and use pointer variables. 
+Write a program to swap two values with help of call by value and call by reference. 
+Write a program to find length of string using pointer and without using string functions. 
+Write a program to write the characters into file from standard input and then read the characters.
+Write a program to write the integers into file from standard input and then read the integers. 
+Write a program that creates the structure of student and Scan the data of n students and store. 
+Write a program that copies the contents of one file into another. 
+Write a program that appends the content of file at the end of the other. 
